@@ -20,4 +20,4 @@ The learning/research this week took longer than I was originally expecting. Thi
 
 ## Career/Employability/Learning Insights
 
-Insight.
+From a career or employability perspective, this experience has given me a number of insights into my own process. It has highlighted the importance of conducting thorough research and planning to better understand the project and avoid misconceptions or incorrect assumptions. This could save valuable development time and resources. The experience also highlighted the importance of being adaptable and flexible. The ability to adapt to situations and learn new skills quickly are valued by many career employers. In any career, there will be times when you encounter unexpected challenges or obstacles. The ability to persist through difficulties and find solutions can be valuable and highly sought after. Though there is also importance in knowing when to change tack if the problem is costing the developer/employee too much of their time. Many of the challenges or hurdles can be avoided or at least alleviated by developing problem-solving skills.
